@@ -1,0 +1,38 @@
+[
+  {
+    "symbol": "RELIANCE",
+    "yahoo": "RELIANCE.NS",
+    "name": "Reliance Industries Ltd",
+    "addedAt": "20 Oct 2026, 12:02"
+  },
+  {
+    "symbol": "HDFCBANK",
+    "yahoo": "HDFCBANK.NS",
+    "name": "HDFC Bank Ltd",
+    "addedAt": "20 Oct 2026, 12:02"
+  },
+  {
+    "symbol": "TCS",
+    "yahoo": "TCS.NS",
+    "name": "Tata Consultancy Services",
+    "addedAt": "20 Oct 2026, 12:02"
+  },
+  {
+    "symbol": "INFY",
+    "yahoo": "INFY.NS",
+    "name": "Infosys Ltd",
+    "addedAt": "20 Oct 2026, 12:02"
+  },
+  {
+    "symbol": "SBIN",
+    "yahoo": "SBIN.NS",
+    "name": "State Bank of India",
+    "addedAt": "20 Oct 2026, 12:02"
+  },
+  {
+    "symbol": "ICICIBANK",
+    "yahoo": "ICICIBANK.NS",
+    "name": "ICICI Bank Ltd",
+    "addedAt": "20 Oct 2026, 12:02"
+  }
+]
